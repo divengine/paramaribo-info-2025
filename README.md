@@ -1,4 +1,4 @@
-# 🇸🇷 Suriname Exchange Rate Tracker
+# Paramaribo Info 2025
 
 ## Latest Exchange Rates
 
