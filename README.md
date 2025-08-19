@@ -252,8 +252,8 @@
 | DSB | USD | 36.79 | 37.31 | 36.28 |
 | Finabank | EUR | 42.95 | 43.59 | 42.17 |
 | Finabank | USD | 37.22 | 37.77 | 36.72 |
-| Hakrinbank | EUR | 42.89 | 43.50 | 42.17 |
-| Hakrinbank | USD | 37.05 | 37.45 | 36.65 |
+| Hakrinbank | EUR | 42.90 | 43.50 | 42.17 |
+| Hakrinbank | USD | 37.06 | 37.45 | 36.65 |
 | VCB Bank | EUR | 42.80 | 43.90 | 36.50 |
 | VCB Bank | USD | 37.12 | 37.75 | 35.50 |
 
