@@ -7,7 +7,7 @@
 | Bank | Buy | Sell | Buy | Sell |
 |------|--------|---------|--------|---------|
 | Central Bank | 37.61 | 38.40 | 43.61 | 44.61 |
-| Central Money Exchange | 37.00 | 37.42 | 42.05 | 43.15 |
+| Central Money Exchange | 37.00 | 37.50 | 42.05 | 43.15 |
 | DSB | 37.56 | 38.33 | 43.76 | 44.65 |
 | Finabank | 37.73 | 38.50 | 43.83 | 44.80 |
 | Hakrinbank | 37.75 | 38.49 | 43.85 | 44.80 |
@@ -252,7 +252,7 @@
 | DSB | USD | 36.88 | 37.56 | 36.28 |
 | Finabank | EUR | 43.07 | 43.85 | 42.17 |
 | Finabank | USD | 37.29 | 37.81 | 36.72 |
-| Hakrinbank | EUR | 43.00 | 43.85 | 42.17 |
+| Hakrinbank | EUR | 43.01 | 43.85 | 42.17 |
 | Hakrinbank | USD | 37.14 | 37.75 | 36.65 |
 | VCB Bank | EUR | 42.80 | 43.90 | 36.50 |
 | VCB Bank | USD | 37.12 | 37.75 | 35.50 |
