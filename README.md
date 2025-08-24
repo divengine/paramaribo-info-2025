@@ -253,7 +253,7 @@
 | Finabank | EUR | 43.10 | 43.85 | 42.17 |
 | Finabank | USD | 37.30 | 37.81 | 36.72 |
 | Hakrinbank | EUR | 43.03 | 43.85 | 42.17 |
-| Hakrinbank | USD | 37.15 | 37.75 | 36.65 |
+| Hakrinbank | USD | 37.16 | 37.75 | 36.65 |
 | VCB Bank | EUR | 42.80 | 43.90 | 36.50 |
 | VCB Bank | USD | 37.12 | 37.75 | 35.50 |
 
