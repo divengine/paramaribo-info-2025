@@ -6,11 +6,11 @@
 
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
-| Central Bank | 37.97 | 38.51 | 43.90 | 44.85 |
+| Central Bank | 37.972 | 38.506 | 43.904 | 44.849 |
 | Central Money Exchange | 37.00 | 37.50 | 42.05 | 43.15 |
 | DSB | 37.82 | 38.59 | 44.07 | 44.97 |
-| Finabank | 37.61 | 38.59 | 43.61 | 44.83 |
-| Godo | 37.42 | 38.59 | 43.39 | 44.83 |
+| Finabank | 37.605 | 38.586 | 43.607 | 44.833 |
+| Godo | 37.417 | 38.587 | 43.389 | 44.833 |
 | Hakrinbank | 37.75 | 38.58 | 43.80 | 44.83 |
 | VCB | 37.75 | 38.55 | 43.60 | 44.80 |
 | VCB Bank | 37.75 | 37.90 | 43.20 | 44.15 |
@@ -318,22 +318,22 @@
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
 | Central Bank | EUR | 42.95 | 44.43 | 41.71 |
-| Central Bank | USD | 37.17 | 37.97 | 36.50 |
-| Central Money Exchange | EUR | 42.32 | 42.75 | 42.00 |
-| Central Money Exchange | USD | 37.99 | 38.40 | 36.60 |
-| DSB | EUR | 42.92 | 44.23 | 41.91 |
-| DSB | EUR/USD | 1.14 | 1.15 | 1.13 |
-| DSB | USD | 36.94 | 37.82 | 36.28 |
-| Finabank | EUR | 43.13 | 43.85 | 42.17 |
-| Finabank | USD | 37.33 | 37.81 | 36.72 |
-| Godo | EUR | 43.39 | 43.39 | 43.39 |
-| Godo | USD | 37.42 | 37.42 | 37.42 |
-| Hakrinbank | EUR | 43.08 | 43.85 | 42.17 |
-| Hakrinbank | USD | 37.19 | 37.75 | 36.65 |
+| Central Bank | USD | 37.168 | 37.972 | 36.50 |
+| Central Money Exchange | EUR | 42.323 | 42.75 | 42.00 |
+| Central Money Exchange | USD | 37.992 | 38.40 | 36.60 |
+| DSB | EUR | 42.921 | 44.23 | 41.91 |
+| DSB | EUR/USD | 1.137 | 1.15 | 1.13 |
+| DSB | USD | 36.946 | 37.82 | 36.28 |
+| Finabank | EUR | 43.135 | 43.85 | 42.17 |
+| Finabank | USD | 37.327 | 37.81 | 36.72 |
+| Godo | EUR | 43.39 | 43.39 | 43.389 |
+| Godo | USD | 37.42 | 37.42 | 37.417 |
+| Hakrinbank | EUR | 43.077 | 43.85 | 42.17 |
+| Hakrinbank | USD | 37.191 | 37.75 | 36.65 |
 | VCB | EUR | 43.60 | 43.60 | 43.60 |
 | VCB | USD | 37.75 | 37.75 | 37.75 |
 | VCB Bank | EUR | 42.80 | 43.90 | 36.50 |
-| VCB Bank | USD | 37.12 | 37.75 | 35.50 |
+| VCB Bank | USD | 37.122 | 37.75 | 35.50 |
 
 
 ## About
