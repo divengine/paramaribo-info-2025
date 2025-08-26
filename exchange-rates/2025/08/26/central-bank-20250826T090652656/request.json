@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-08-26T09:06:52.656560-03:00",
+  "url": "https://www.cbvs.sr/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.cbvs.sr (172.67.210.106), 15 hops max\n  1   140.204.226.199  0.371ms  0.140ms  0.131ms \n  2   140.204.28.36  8.599ms  8.391ms  8.269ms \n  3   140.204.28.37  13.104ms  *  14.162ms \n  4   141.101.72.34  9.855ms  8.910ms  9.753ms \n  5   172.67.210.106  8.812ms  8.740ms  8.695ms \n"
+}
