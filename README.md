@@ -6,13 +6,13 @@
 
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
-| Central Bank | 37.972 | 38.506 | 43.904 | 44.849 |
+| Central Bank | 38.00 | 38.649 | 44.34 | 45.04 |
 | Central Money Exchange | 37.00 | 37.40 | 42.00 | 43.00 |
 | DSB | 37.93 | 38.70 | 44.16 | 45.05 |
 | Finabank | 37.972 | 38.698 | 43.904 | 45.073 |
 | Godo | 37.782 | 38.699 | 43.685 | 45.073 |
 | Hakrinbank | 38.00 | 38.69 | 44.10 | 45.07 |
-| VCB | 37.75 | 38.55 | 43.60 | 44.80 |
+| VCB | 38.05 | 38.55 | 44.00 | 44.90 |
 | VCB Bank | 37.75 | 37.90 | 43.20 | 44.15 |
 
 
@@ -317,21 +317,21 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Bank | EUR | 42.954 | 44.43 | 41.71 |
-| Central Bank | USD | 37.17 | 37.972 | 36.50 |
-| Central Money Exchange | EUR | 42.322 | 42.75 | 42.00 |
-| Central Money Exchange | USD | 37.989 | 38.40 | 36.60 |
-| DSB | EUR | 42.925 | 44.23 | 41.91 |
+| Central Bank | EUR | 42.956 | 44.43 | 41.71 |
+| Central Bank | USD | 37.172 | 38.00 | 36.50 |
+| Central Money Exchange | EUR | 42.321 | 42.75 | 42.00 |
+| Central Money Exchange | USD | 37.987 | 38.40 | 36.60 |
+| DSB | EUR | 42.927 | 44.23 | 41.91 |
 | DSB | EUR/USD | 1.137 | 1.15 | 1.13 |
-| DSB | USD | 36.949 | 37.93 | 36.28 |
-| Finabank | EUR | 43.137 | 43.904 | 42.17 |
-| Finabank | USD | 37.329 | 37.972 | 36.72 |
-| Godo | EUR | 43.439 | 43.685 | 43.389 |
-| Godo | USD | 37.48 | 37.782 | 37.417 |
-| Hakrinbank | EUR | 43.08 | 44.10 | 42.17 |
-| Hakrinbank | USD | 37.194 | 38.00 | 36.65 |
-| VCB | EUR | 43.60 | 43.60 | 43.60 |
-| VCB | USD | 37.75 | 37.75 | 37.75 |
+| DSB | USD | 36.951 | 37.93 | 36.28 |
+| Finabank | EUR | 43.138 | 43.904 | 42.17 |
+| Finabank | USD | 37.33 | 37.972 | 36.72 |
+| Godo | EUR | 43.458 | 43.685 | 43.389 |
+| Godo | USD | 37.503 | 37.782 | 37.417 |
+| Hakrinbank | EUR | 43.082 | 44.10 | 42.17 |
+| Hakrinbank | USD | 37.195 | 38.00 | 36.65 |
+| VCB | EUR | 43.64 | 44.00 | 43.60 |
+| VCB | USD | 37.78 | 38.05 | 37.75 |
 | VCB Bank | EUR | 42.80 | 43.90 | 36.50 |
 | VCB Bank | USD | 37.122 | 37.75 | 35.50 |
 
