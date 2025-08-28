@@ -1,0 +1,21 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 28 Aug 2025 19:16:41 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "private",
+    "Server": "cloudflare",
+    "x-aspnetmvc-version": "5.2",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET",
+    "cf-cache-status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=f5ziMcfxR64qOzab2RS14UCpPF%2B2v78v%2FREdWkO0F48qPThbFgAMSnEyVBV8QG2VngYvNC3JUYSM%2FjOMB5Oe3%2FQTOzGdBVdU6%2Bw%3D\"}]}",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "976624faff422ac8-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "text": "[{\"BuyUsdExchangeRate\":37.2500,\"BuyEuroExchangeRate\":42.2000,\"SaleUsdExchangeRate\":38.0000,\"SaleEuroExchangeRate\":43.1500,\"ExchangeUsdRate\":1.1000,\"ExchangeEuroRate\":1.1300,\"ExchangeUsdRateNew\":1.1300,\"ExchangeEuroRateNew\":1.1000,\"Day\":null,\"BusinessDate\":\"28-Aug-2025\",\"USDBalance\":1,\"EUROBalance\":1,\"UpdatedTime\":\"04:16 PM\",\"NonCashBuyUsdExchangeRate\":0.0001,\"NonCashBuyEuroExchangeRate\":0.0001,\"NonCashSaleUsdExchangeRate\":0.0002,\"NonCashSaleEuroExchangeRate\":0.0002,\"NonCashExchangeUsdRate\":0.0002,\"NonCashExchangeEuroRate\":0.0001,\"IsShow\":false,\"AnnounceHtml\":\"\"}]"
+}
