@@ -1,0 +1,22 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 18 Sep 2025 01:52:55 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Cache-Control": "private",
+    "x-aspnetmvc-version": "5.2",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET",
+    "cf-cache-status": "DYNAMIC",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=lFJWqjtT3mqHJTNYczMFrgEjmQ0hmu0FLcTA788%2BkNPrtlfqOoDr5eQ03PfWE1ys9zTF%2BVcEhGcInoPtWfcFp3QTgFBUTZerQHtMRnOUo%2Btx%2F3d7hKF0xroTF53P\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "980d34e62f082ae4-LAX",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "server-timing": "cfL4;desc=\"?proto=TCP&rtt=11319&min_rtt=11298&rtt_var=4251&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2856&recv_bytes=1096&delivery_rate=256328&cwnd=252&unsent_bytes=0&cid=9e40f827cdd8ee59&ts=594&x=0\""
+  },
+  "text": "[{\"BuyUsdExchangeRate\":37.7500,\"BuyEuroExchangeRate\":44.1500,\"SaleUsdExchangeRate\":38.1500,\"SaleEuroExchangeRate\":45.0000,\"ExchangeUsdRate\":1.1250,\"ExchangeEuroRate\":1.1500,\"ExchangeUsdRateNew\":1.1500,\"ExchangeEuroRateNew\":1.1250,\"Day\":null,\"BusinessDate\":\"17-Sep-2025\",\"USDBalance\":1,\"EUROBalance\":1,\"UpdatedTime\":\"10:52 PM\",\"NonCashBuyUsdExchangeRate\":0.0001,\"NonCashBuyEuroExchangeRate\":0.0001,\"NonCashSaleUsdExchangeRate\":0.0002,\"NonCashSaleEuroExchangeRate\":0.0002,\"NonCashExchangeUsdRate\":0.0002,\"NonCashExchangeEuroRate\":0.0001,\"IsShow\":false,\"AnnounceHtml\":\"\"}]"
+}
