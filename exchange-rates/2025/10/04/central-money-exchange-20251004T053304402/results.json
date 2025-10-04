@@ -1,0 +1,14 @@
+{
+  "USD": {
+    "buy": "37.70",
+    "sell": "38.25",
+    "updated_on": "2025-10-04",
+    "updated_on_time": "05:45 AM"
+  },
+  "EUR": {
+    "buy": "43.65",
+    "sell": "44.65",
+    "updated_on": "2025-10-04",
+    "updated_on_time": "05:45 AM"
+  }
+}
