@@ -7,7 +7,7 @@
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
 | Central Bank | 38.148 | 38.859 | 44.541 | 45.232 |
-| Central Money Exchange | 38.00 | 38.65 | 43.65 | 44.65 |
+| Central Money Exchange | 38.00 | 38.65 | 43.65 | 44.60 |
 | DSB | 38.34 | 38.60 | 44.93 | 45.24 |
 | Finabank | 38.61 | 39.264 | 45.062 | 45.595 |
 | Godo | 38.418 | 39.069 | 44.661 | 45.418 |
@@ -318,16 +318,16 @@
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
 | Central Money Exchange | EUR | 43.67 | 43.75 | 43.50 |
-| Central Money Exchange | USD | 37.783 | 38.00 | 37.70 |
+| Central Money Exchange | USD | 37.784 | 38.00 | 37.70 |
 | DSB | EUR | 44.937 | 45.07 | 44.93 |
 | DSB | EUR/USD | 1.164 | 1.164 | 1.162 |
 | DSB | USD | 38.346 | 38.46 | 38.34 |
 | Finabank | EUR | 44.984 | 45.192 | 44.692 |
-| Finabank | USD | 38.441 | 38.69 | 38.145 |
+| Finabank | USD | 38.442 | 38.69 | 38.145 |
 | Godo | EUR | 44.743 | 44.81 | 44.597 |
-| Godo | USD | 38.271 | 38.498 | 38.125 |
+| Godo | USD | 38.272 | 38.498 | 38.125 |
 | Hakrinbank | EUR | 44.789 | 45.00 | 44.65 |
-| Hakrinbank | USD | 38.261 | 38.50 | 38.05 |
+| Hakrinbank | USD | 38.263 | 38.50 | 38.05 |
 | VCB Bank | EUR | 40.45 | 44.00 | 36.75 |
 | VCB Bank | USD | 36.33 | 37.10 | 35.50 |
 
