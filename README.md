@@ -317,17 +317,17 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 43.782 | 44.20 | 43.50 |
-| Central Money Exchange | USD | 38.058 | 38.65 | 37.70 |
-| DSB | EUR | 44.872 | 45.07 | 44.78 |
+| Central Money Exchange | EUR | 43.783 | 44.20 | 43.50 |
+| Central Money Exchange | USD | 38.059 | 38.65 | 37.70 |
+| DSB | EUR | 44.871 | 45.07 | 44.78 |
 | DSB | EUR/USD | 1.151 | 1.164 | 1.133 |
 | DSB | USD | 38.514 | 38.76 | 38.34 |
-| Finabank | EUR | 45.116 | 45.714 | 44.692 |
-| Finabank | USD | 38.709 | 39.524 | 38.145 |
-| Godo | EUR | 44.985 | 45.816 | 44.577 |
-| Godo | USD | 38.578 | 39.524 | 38.125 |
-| Hakrinbank | EUR | 44.975 | 45.75 | 44.65 |
-| Hakrinbank | USD | 38.582 | 39.55 | 38.05 |
+| Finabank | EUR | 45.118 | 45.714 | 44.692 |
+| Finabank | USD | 38.711 | 39.524 | 38.145 |
+| Godo | EUR | 44.988 | 45.816 | 44.577 |
+| Godo | USD | 38.581 | 39.524 | 38.125 |
+| Hakrinbank | EUR | 44.977 | 45.75 | 44.65 |
+| Hakrinbank | USD | 38.584 | 39.55 | 38.05 |
 | VCB Bank | EUR | 40.45 | 44.00 | 36.75 |
 | VCB Bank | USD | 36.33 | 37.10 | 35.50 |
 
