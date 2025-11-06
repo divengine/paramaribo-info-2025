@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-06T18:46:14.676570-03:00",
+  "url": "https://www.hakrinbank.com/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to www.hakrinbank.com (34.200.211.162), 15 hops max\n  1   140.204.227.29  0.109ms  0.121ms  0.116ms \n  2   99.83.67.235  51.505ms  51.843ms  51.613ms \n  3   *  *  * \n  4   *  *  * \n  5   *  *  * \n  6   *  *  * \n  7   *  *  * \n  8   *  *  * \n  9   *  *  * \n 10   *  *  * \n 11   *  *  * \n 12   *  *  * \n 13   *  *  * \n 14   *  *  * \n 15   *  *  * \n"
+}
