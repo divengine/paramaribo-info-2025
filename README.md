@@ -290,8 +290,8 @@
 | Finabank | USD | 38.26 | 38.323 | 38.113 |
 | Godo | EUR | 44.295 | 44.596 | 44.026 |
 | Godo | USD | 38.376 | 38.724 | 38.113 |
-| Hakrinbank | EUR | 44.056 | 44.40 | 43.70 |
-| Hakrinbank | USD | 38.151 | 38.35 | 38.00 |
+| Hakrinbank | EUR | 44.057 | 44.40 | 43.70 |
+| Hakrinbank | USD | 38.152 | 38.35 | 38.00 |
 | VCB Bank | EUR | 40.33 | 43.50 | 37.00 |
 | VCB Bank | USD | 36.37 | 37.25 | 35.55 |
 
