@@ -248,12 +248,12 @@
 | Central Bank | USD | 35.19 | 35.19 | 35.19 |
 | Central Money Exchange | EUR | 43.46 | 43.65 | 43.20 |
 | Central Money Exchange | USD | 38.00 | 38.00 | 38.00 |
-| DSB | EUR | 44.54 | 44.63 | 44.47 |
+| DSB | EUR | 44.53 | 44.63 | 44.47 |
 | DSB | EUR/USD | 1.14 | 1.15 | 1.14 |
 | DSB | USD | 38.09 | 38.16 | 37.93 |
 | Finabank | EUR | 44.63 | 44.72 | 44.47 |
 | Finabank | USD | 38.36 | 38.44 | 38.21 |
-| Godo | EUR | 44.94 | 45.22 | 44.57 |
+| Godo | EUR | 44.93 | 45.22 | 44.57 |
 | Godo | USD | 38.34 | 38.45 | 38.15 |
 | Hakrinbank | EUR | 44.62 | 44.70 | 44.40 |
 | Hakrinbank | USD | 38.32 | 38.50 | 38.15 |
