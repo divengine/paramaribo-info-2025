@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-12-21T12:06:14.639131-03:00",
+  "url": "https://www.godo.sr/nl/wisselkoersnoteringen/",
+  "method": "GET",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "accept": "*/*",
+    "accept-language": "nl-NL,nl;q=0.9,en;q=0.8",
+    "connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to uwxiy.x.incapdns.net (199.83.129.128), 15 hops max\n  1   157.137.147.114  0.600ms  0.177ms  0.147ms \n  2   62.115.13.10  0.531ms  0.672ms  0.447ms \n  3   62.115.13.9  1.275ms  1.583ms  1.496ms \n  4   62.115.125.72  9.564ms  9.892ms  9.496ms \n  5   62.115.142.167  12.685ms  12.837ms  10.439ms \n  6   62.115.186.215  9.606ms  9.627ms  9.643ms \n  7   131.125.155.77  9.932ms  9.934ms  9.817ms \n  8   *  *  * \n  9   *  *  * \n 10   *  *  * \n 11   *  *  * \n 12   *  *  * \n 13   *  *  * \n 14   *  *  * \n 15   *  *  * \n"
+}
