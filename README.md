@@ -257,7 +257,7 @@
 | Godo | USD | 38.22 | 38.45 | 37.17 |
 | Hakrinbank | EUR | 44.51 | 44.70 | 44.40 |
 | Hakrinbank | USD | 38.14 | 38.50 | 37.95 |
-| VCB Bank | EUR | 44.19 | 44.60 | 37.30 |
+| VCB Bank | EUR | 44.20 | 44.60 | 37.30 |
 | VCB Bank | USD | 37.88 | 38.00 | 35.65 |
 
 
