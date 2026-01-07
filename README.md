@@ -244,12 +244,12 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 42.51 | 43.00 | 42.50 |
+| Central Money Exchange | EUR | 42.52 | 43.00 | 42.50 |
 | Central Money Exchange | USD | 38.00 | 38.00 | 38.00 |
 | DSB | EUR | 44.26 | 44.31 | 44.09 |
 | DSB | EUR/USD | 1.15 | 1.15 | 1.15 |
 | DSB | USD | 37.66 | 37.74 | 37.63 |
-| Finabank | EUR | 44.46 | 44.71 | 44.26 |
+| Finabank | EUR | 44.47 | 44.71 | 44.26 |
 | Finabank | USD | 38.08 | 38.11 | 38.03 |
 | Godo | EUR | 44.40 | 44.55 | 44.30 |
 | Godo | USD | 37.92 | 38.11 | 37.81 |
