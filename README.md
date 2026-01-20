@@ -7,7 +7,7 @@
 | Bank | USD Buy | USD Sell | EUR Buy | EUR Sell |
 |------|---------|----------|---------|----------|
 | Central Bank | 36.52 | 36.81 | 41.65 | 42.29 |
-| Central Money Exchange | 38.00 | 38.40 | 43.60 | 44.25 |
+| Central Money Exchange | 38.00 | 38.40 | 43.65 | 44.25 |
 | DSB | 37.66 | 38.43 | 44.17 | 45.07 |
 | Finabank | 38.10 | 38.49 | 44.65 | 45.11 |
 | Godo | 38.07 | 38.43 | 44.60 | 45.02 |
@@ -244,7 +244,7 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 43.09 | 43.70 | 42.50 |
+| Central Money Exchange | EUR | 43.10 | 43.70 | 42.50 |
 | Central Money Exchange | USD | 38.00 | 38.00 | 38.00 |
 | DSB | EUR | 44.08 | 44.31 | 43.89 |
 | DSB | EUR/USD | 1.14 | 1.15 | 1.14 |
