@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-01-29T01:26:28.371097-03:00",
+  "url": "https://www.dsb.sr/",
+  "method": "GET",
+  "headers": {
+    "User-Agent": "Mozilla/5.0",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+  },
+  "body": "None",
+  "ip_local": "127.0.1.1",
+  "traceroute": "traceroute to dgxyn191jteyc.cloudfront.net (18.238.96.100), 15 hops max\n  1   157.137.146.142  0.253ms  0.125ms  0.162ms \n  2   4.7.247.122  1.204ms  1.064ms  1.056ms \n  3   4.7.247.121  1.538ms  1.495ms  1.516ms \n  4   *  *  * \n  5   *  *  * \n  6   *  *  * \n  7   *  *  * \n  8   *  *  * \n  9   *  *  * \n 10   *  *  * \n 11   *  *  * \n 12   *  *  * \n 13   *  *  * \n 14   *  *  * \n 15   *  *  * \n"
+}
