@@ -12,7 +12,7 @@
 | Finabank | 37.86 | 38.31 | 45.09 | 45.78 |
 | Godo | 37.89 | 38.25 | 45.09 | 45.51 |
 | Hakrinbank | 37.80 | 38.30 | 44.80 | 45.65 |
-| VCB Bank | 37.50 | 38.30 | 44.85 | 45.80 |
+| VCB Bank | 37.50 | 38.30 | 44.70 | 45.65 |
 
 
 ## Trend Graphs (90 Days)
@@ -244,7 +244,7 @@
 
 | Bank | Currency | Average | Maximum | Minimum |
 |------|----------|---------|---------|---------|
-| Central Money Exchange | EUR | 43.37 | 44.35 | 42.50 |
+| Central Money Exchange | EUR | 43.38 | 44.35 | 42.50 |
 | Central Money Exchange | USD | 37.99 | 38.00 | 37.85 |
 | DSB | EUR | 44.16 | 45.00 | 43.89 |
 | DSB | EUR/USD | 1.15 | 1.17 | 1.14 |
@@ -255,7 +255,7 @@
 | Godo | USD | 38.03 | 38.20 | 37.81 |
 | Hakrinbank | EUR | 44.37 | 45.15 | 44.00 |
 | Hakrinbank | USD | 37.89 | 38.00 | 37.80 |
-| VCB Bank | EUR | 44.19 | 44.85 | 43.80 |
+| VCB Bank | EUR | 44.20 | 44.85 | 43.80 |
 | VCB Bank | USD | 37.71 | 37.90 | 37.50 |
 
 
