@@ -251,6 +251,8 @@
 | DSB | USD | 37.48 | 37.48 | 37.48 |
 | Hakrinbank | EUR | 44.80 | 44.80 | 44.80 |
 | Hakrinbank | USD | 37.80 | 37.80 | 37.80 |
+| VCB Bank | EUR | 44.70 | 44.70 | 44.70 |
+| VCB Bank | USD | 37.50 | 37.50 | 37.50 |
 
 
 ## About
